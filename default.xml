@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="aosp" fetch="https://android.googlesource.com" review=""/>
-  <remote name="mentor-github" fetch="ssh://git@github.com/MentorEmbedded/" review=""/>
+  <remote name="mentor-github" fetch="git://github.com/MentorEmbedded/" review=""/>
   <default remote="aosp" revision="refs/tags/android-6.0.1_r74" sync-j="4" />
   <remote  name="github" fetch="git://github.com/" />
 
