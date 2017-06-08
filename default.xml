@@ -9,6 +9,7 @@
   <!-- Modified/Added repositories -->
   <project path="device/xilinx" name="mpsoc-android_device_xilinx" remote="mentor-github" revision="zynqmp-android_6.0.1" />
   <project path="linux-xlnx" name="mpsoc-linux-xlnx" remote="mentor-github" revision="zynqmp-android-4.4" />
+  <project path="bootable/u-boot-xlnx" name="mpsoc-u-boot-xlnx" remote="mentor-github" revision="zynqmp-android-xilinx-v2017.1" />
   <project path="vendor/xilinx" name="mpsoc-android_vendor_xilinx" remote="mentor-github" revision="zynqmp-android_6.0.1" />
   <project path="external/wpa_supplicant_8" name="mpsoc-wpa_supplicant_8" remote="mentor-github" revision="zynqmp-android_6.0.1" />
   <project path="hardware/ti/wlan" name="cyanogenmod/android_hardware_ti_wlan" remote="github" revision="stable/cm-13.0-ZNH5Y" />
