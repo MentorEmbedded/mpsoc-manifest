@@ -11,6 +11,7 @@
   <project path="linux-xlnx" name="mpsoc-linux-xlnx" remote="mentor-github" revision="zynqmp-android-4.9" />
   <project path="bootable/u-boot-xlnx" name="mpsoc-u-boot-xlnx" remote="mentor-github" revision="zynqmp-android-xilinx-v2017.1" />
   <project path="vendor/xilinx" name="mpsoc-android_vendor_xilinx" remote="mentor-github" revision="zynqmp-android_7.1.2" />
+  <project path="frameworks/base" name="mpsoc-android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="mentor-github" revision="zynqmp-android_7.1.2"/>
   <project path="external/wpa_supplicant_8" name="mpsoc-wpa_supplicant_8" remote="mentor-github" revision="zynqmp-android_6.0.1" />
   <project path="hardware/ti/wlan" name="cyanogenmod/android_hardware_ti_wlan" remote="github" revision="stable/cm-13.0-ZNH5Y" />
 
@@ -329,7 +330,6 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
-  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
