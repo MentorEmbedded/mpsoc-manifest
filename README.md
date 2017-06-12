@@ -11,7 +11,7 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 * [Getting Started Guide][getting-started-android6]
 * Latest Repo manifest file is in branch [zynqmp-android_6.0.1][manifest-android6]
 
-[getting-started-android6]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-for-Xilinx-Zynq-UltraScale--MPSoC "Getting Started for Android 6 Marshmallow"
+[getting-started-android6]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-6-for-Xilinx-Zynq-UltraScale--MPSoC "Getting Started for Android 6 Marshmallow"
 [manifest-android6]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_6.0.1 "Repo manifest for Android 6 Marshmallow release"
 [zcu102]:https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-es2-g.html "ZCU102"
 [ultrazed_iocc]:http://microzed.org/product/ultrazed-eg-starter-kit
