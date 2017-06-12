@@ -17,7 +17,7 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 
 ### Links and docs
 * [Getting Started Guide][getting-started-android7]
-* Latest Repo manifest file is in branch [zynqmp-android_7][manifest-android6]
+* Latest Repo manifest file is in branch [zynqmp-android_7][manifest-android7]
 
 [getting-started-android6]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-6-for-Xilinx-Zynq-UltraScale--MPSoC "Getting Started for Android 6 Marshmallow"
 [manifest-android6]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_6.0.1 "Repo manifest for Android 6 Marshmallow release"
@@ -25,3 +25,4 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 [ultrazed_iocc]:http://microzed.org/product/ultrazed-eg-starter-kit
 [iveia_ozzy]:http://www.iveia.com/ozzy
 [getting-started-android7]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-7-for-Xilinx-Zynq-UltraScale--MPSoC
+[manifest-android7]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_7 "Repo manifest for Android 7 Marshmallow release"
