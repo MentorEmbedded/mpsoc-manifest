@@ -14,6 +14,7 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 ## Android 7 Marshmallow
 ### Supported boards
 * [Avnet UltraZed-EG SOM with IO Carrier Card][ultrazed_iocc] - ES1 only boards are supported
+* Xilinx ZCU106. ES2 version of the board is supported
 
 ### Links and docs
 * [Getting Started Guide][getting-started-android7]
