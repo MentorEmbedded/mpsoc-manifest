@@ -3,9 +3,9 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 
 ## Android 6 Marshmallow
 ### Supported boards
-* [Xilinx Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit][zcu102]
-* [Xilinx Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit with iVeia Ozzy FMC][iveia_ozzy]
-* [Avnet UltraZed-EG SOM with IO Carrier Card][ultrazed_iocc]
+* [Xilinx Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit][zcu102] - ES1 only boards are supported
+* [Xilinx Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit with iVeia Ozzy FMC][iveia_ozzy] - ES1 only boards are supported
+* [Avnet UltraZed-EG SOM with IO Carrier Card][ultrazed_iocc] Note - ES1 only boards are supported
 
 ### Links and docs
 * [Getting Started Guide][getting-started-android6]
@@ -13,7 +13,7 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 
 ## Android 7 Marshmallow
 ### Supported boards
-* [Avnet UltraZed-EG SOM with IO Carrier Card][ultrazed_iocc]
+* [Avnet UltraZed-EG SOM with IO Carrier Card][ultrazed_iocc] - ES1 only boards are supported
 
 ### Links and docs
 * [Getting Started Guide][getting-started-android7]
