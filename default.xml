@@ -17,7 +17,7 @@
   <project path="hardware/xilinx/vcu/vcu-firmware" name="vcu-firmware" remote="xilinx-github" revision="refs/tags/xilinx-v2018.1" />
   <project path="hardware/xilinx/vcu/vcu-modules" name="vcu-modules" remote="xilinx-github" revision="refs/tags/xilinx-v2018.1" />
   <project path="hardware/xilinx/vcu/vcu-ctrl-sw" name="vcu-ctrl-sw" remote="mentor-github" revision="android-8_xilinx-v2018.1" />
-  <project path="hardware/xilinx/vcu/vcu-omx-il" name="vcu-omx-il" remote="mentor-github" revision="android-8_xilinx-v2018.1" />
+  <project path="hardware/xilinx/vcu/vcu-omx-il" name="vcu-omx-il" remote="mentor-github" revision="android-8_xilinx-v2018.2" />
 
   <!-- Modified/Added repositories -->
   <project path="system/core" name="mpsoc-android_platform_system_core" remote="mentor-github" revision="zynqmp-android_8" groups="pdk" />
