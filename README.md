@@ -14,7 +14,7 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 ## Android 7 Marshmallow
 ### Supported boards
 * [Avnet UltraZed-EG SOM with IO Carrier Card][ultrazed_iocc] - ES1 only boards are supported
-* Xilinx ZCU106. ES2 version of the board is supported
+* Xilinx ZCU106. ES2/production silicon version of the board is supported
 
 ### Links and docs
 * [Getting Started Guide][getting-started-android7]
@@ -22,7 +22,9 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 
 ## Android 8 Oreo
 ### Supported boards
-* [Xilinx ZCU106][zcu106] - ES2 version of the board is supported. zcu106_vcu target also provides basic Xilinx VCU decoding functionality
+* [Xilinx ZCU106][zcu106] - ES2/production silicon version of the board is supported. zcu106_vcu target also provides basic Xilinx VCU decoding functionality
+* [Xilinx ZCU102][zcu102] - ES2/production silicon version of the board is supported.
+
 
 ### Links and docs
 * [Getting Started Guide][getting-started-android8]
