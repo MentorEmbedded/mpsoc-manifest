@@ -24,6 +24,7 @@
   <project path="system/core" name="mpsoc-android_platform_system_core" remote="mentor-github" revision="zynqmp-android_8" groups="pdk" />
   <project path="external/libdrm" name="mpsoc-android_external_libdrm" remote="mentor-github" revision="zynqmp-android_8" groups="pdk" />
   <project path="external/drm_hwcomposer" name="mpsoc-android_external_drm_hwcomposer" remote="mentor-github" revision="zynqmp-android_8-v2018.3" groups="drm_hwcomposer,pdk-fs" />
+  <project path="external/v4l-utils" name="mpsoc-v4l-utils" remote="mentor-github" revision="zynqmp-android_8" groups="pdk" />
   <project path="packages/apps/Settings" name="mpsoc-android_packages_apps_settings" remote="mentor-github" revision="zynqmp-android_8" groups="pdk-fs" />
   <project path="frameworks/av" name="mpsoc-android_frameworks_av" remote="mentor-github" revision="zynqmp-android_8" groups="pdk" />
 
