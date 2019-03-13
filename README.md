@@ -38,6 +38,6 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 [ultrazed_iocc]:http://microzed.org/product/ultrazed-eg-starter-kit
 [iveia_ozzy]:http://www.iveia.com/ozzy
 [getting-started-android7]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-7-for-Xilinx-Zynq-UltraScale--MPSoC
-[getting-started-android8]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-8-for-Xilinx-Zynq-UltraScale--MPSoC
+[getting-started-android8]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-8-v2018.1-for-Xilinx-Zynq-UltraScale--MPSoC
 [manifest-android7]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_7 "Repo manifest for Android 7 Marshmallow release"
 [manifest-android8]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_8 "Repo manifest for Android 8 Oreo release"
