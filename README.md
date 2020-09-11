@@ -30,6 +30,7 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 ### Links and docs
 * [Getting Started Guide for the release based on Xilinx VCU TRD 2018.1][getting-started-android8]
 * [Getting Started Guide for the release based on Xilinx VCU TRD 2018.3][getting-started-android8-20183]
+* [Getting Started Guide for the release based on Xilinx VCU TRD 2019.2][getting-started-android8-20192]
 * Latest Repo manifest file is in branch [zynqmp-android_8][manifest-android8]
 
 [getting-started-android6]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-6-for-Xilinx-Zynq-UltraScale--MPSoC "Getting Started for Android 6 Marshmallow"
@@ -41,5 +42,6 @@ This is a landing page for Mentor Embedded Android releases for Xilinx Zynq Ultr
 [getting-started-android7]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-7-for-Xilinx-Zynq-UltraScale--MPSoC
 [getting-started-android8]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-8-v2018.1-for-Xilinx-Zynq-UltraScale--MPSoC
 [getting-started-android8-20183]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-8-v2018.3-for-Xilinx-Zynq-UltraScale--MPSoC
+[getting-started-android8-20192]: https://github.com/MentorEmbedded/mpsoc-manifest/wiki/Getting-Started-with-Android-8-v2019.2-for-Xilinx-Zynq-UltraScale--MPSoC
 [manifest-android7]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_7 "Repo manifest for Android 7 Marshmallow release"
 [manifest-android8]:https://github.com/MentorEmbedded/mpsoc-manifest/tree/zynqmp-android_8 "Repo manifest for Android 8 Oreo release"
